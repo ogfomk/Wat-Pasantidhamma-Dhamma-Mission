@@ -1,0 +1,30 @@
+HTML Entity (Hexadecimal)  &#x1E43;
+
+CTRL+shift+u then unicode and then ENTER
+
+Vowels
+
+u+0100 Ā     A with macron    
+u+0101 ā     a with macron      
+u+012A Ī     I with macron     
+u+012B ī     i with macron        
+u+016A Ū     U with macron   
+u+016B ū     u with macron      
+
+Linguals
+
+u+1E6C Ṭ     T with dot below    
+u+1E6D ṭ     t with dot below     
+u+1E0C Ḍ     D with dot below   
+u+1E0D ḍ     d with dot below
+u+1E44 Ṅ     N with dot above 
+u+1E45 ṅ     n with dot above      
+u+1E46 Ṇ     N with dot below   
+u+1E47 ṇ     n with dot below      
+u+00D1 Ñ     N with tilde
+u+00F1 ñ     n with tilde
+
+u+1E36 Ḷ     L with dot below   
+u+1E37 ḷ     l with dot below     
+u+1E42 Ṃ     M with dot below                         
+u+1E43 ṃ     m with dot below 
